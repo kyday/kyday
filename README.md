@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+Hello! I am Kiyeol Kim who is interested in 
+Frontend developer from South Korea.
+
+If you want to contact me💬 , please leave me a message!
+
+⚡ Experience
+- Wecode 16기 Frontend
+
+
+
 <!--
 **kyday/kyday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
