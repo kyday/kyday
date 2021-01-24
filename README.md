@@ -9,7 +9,6 @@ Frontend developer from South Korea.
 
 If you want to contact me💬 , please leave me a message!
 
-⚡ Experience
 🌱 I’m currently learning ...
 
 
