@@ -10,7 +10,7 @@ Frontend developer from South Korea.
 If you want to contact me💬 , please leave me a message!
 
 ⚡ Experience
-- Wecode 16기 Frontend
+🌱 I’m currently learning ...
 
 
 <!--
