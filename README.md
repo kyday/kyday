@@ -9,8 +9,9 @@ Frontend developer from South Korea.
 
 If you want to contact me💬 , please leave me a message!
 
-🌱 I’m currently learning ...
+🌱 
 
+[![Hits](https://img.shields.io/badge/React%20-14B9FF?style=flat-square&logo=React&logoColor=white)](https://hits.seeyoufarm.com)
 
 <!--
 **kyday/kyday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
