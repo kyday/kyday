@@ -15,6 +15,7 @@ If you want to contact me💬 , please leave me a message!
 [![Hits](https://img.shields.io/badge/CSS3%20-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://hits.seeyoufarm.com)
 [![Hits](https://img.shields.io/badge/JavaScript%20-f7df1e?style=flat-square&logo=JavaScript&logoColor=black)](https://hits.seeyoufarm.com)
 [![Hits](https://img.shields.io/badge/React%20-14B9FF?style=flat-square&logo=React&logoColor=white)](https://hits.seeyoufarm.com)
+[![Hits](https://img.shields.io/badge/React-Native%20-14B9FF?style=flat-square&logo=React&logoColor=white)](https://hits.seeyoufarm.com)
 [![Hits](https://img.shields.io/badge/Sass%20-cc6699?style=flat-square&logo=Sass&logoColor=white)](https://hits.seeyoufarm.com)
 
 
