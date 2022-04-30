@@ -4,6 +4,7 @@
 ### Hi there 👋
 
 
+
 Hello! I am Kiyeol Kim who is interested in 
 Frontend developer from South Korea.
 
@@ -17,7 +18,8 @@ If you want to contact me💬 , please leave me a message!
 [![Hits](https://img.shields.io/badge/React%20-14B9FF?style=flat-square&logo=React&logoColor=white)](https://hits.seeyoufarm.com)
 [![Hits](https://img.shields.io/badge/Sass%20-cc6699?style=flat-square&logo=Sass&logoColor=white)](https://hits.seeyoufarm.com)
 
-<img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=html,css,less,javascript,dart,reactjs,scss,typescript'>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyday)](https://github.com/kyday/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyday&layout=compact)](https://github.com/kyday/github-readme-stats)
 
 
 <!--
