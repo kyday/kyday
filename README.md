@@ -17,6 +17,8 @@ If you want to contact me💬 , please leave me a message!
 [![Hits](https://img.shields.io/badge/React%20-14B9FF?style=flat-square&logo=React&logoColor=white)](https://hits.seeyoufarm.com)
 [![Hits](https://img.shields.io/badge/Sass%20-cc6699?style=flat-square&logo=Sass&logoColor=white)](https://hits.seeyoufarm.com)
 
+<img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=html,css,less,javascript,dart,reactjs,scss,typescript'>
+
 
 <!--
 **kyday/kyday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
