@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 Hello! I am Kiyeol Kim who is interested in 
-Frontend developer from South Korea.
+Frontend developer from South Korea
 
 If you want to contact me💬 , please leave me a message!
 
